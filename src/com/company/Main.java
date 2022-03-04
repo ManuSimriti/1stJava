@@ -10,5 +10,7 @@ public class Main {
         System.out.println(manu.getLastName());
         manu.changeAge(21);
         System.out.println(manu.getFullname());
+        System.out.println("New Feature added");
+        System.out.println("FEature 2 added");
     }
 }
